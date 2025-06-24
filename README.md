@@ -1,11 +1,4 @@
-Driven by a strong foundation in C++ and Python, I specialize in building performant, scalable applications with a focus on clean architecture and maintainable code. Experienced in developing iOS applications using Swift and Xcode within macOS environments.
 
-Passionate about Artificial Intelligence and Machine Learning, I’m actively exploring algorithms and data-driven solutions to solve complex problems. Proven track record of contributing to national-level technical competitions and collaborative projects that drive innovation.
-
-Constantly evolving my skill set through continuous learning and hands-on experimentation, I aim to deliver impactful technology solutions that merge cutting-edge research with real-world applications.
-linkedin - https://www.linkedin.com/in/abhiraj-jawalkar-aba7b32b2/
-instagram - https://www.instagram.com/abhir_the_j
-tech stacks-
 # 💫 About Me:
 Driven by a strong foundation in C++ and Python, I specialize in building performant, scalable applications with a focus on clean architecture and maintainable code. Experienced in developing iOS applications using Swift and Xcode within macOS environments.<br><br>Passionate about Artificial Intelligence and Machine Learning, I’m actively exploring algorithms and data-driven solutions to solve complex problems. Proven track record of contributing to national-level technical competitions and collaborative projects that drive innovation.<br><br>Constantly evolving my skill set through continuous learning and hands-on experimentation, I aim to deliver impactful technology solutions that merge cutting-edge research with real-world applications.<br>linkedin - https://www.linkedin.com/in/abhiraj-jawalkar-aba7b32b2/<br>instagram - https://www.instagram.com/abhir_the_j<br>
 
