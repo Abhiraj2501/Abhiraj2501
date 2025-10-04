@@ -1,7 +1,11 @@
+About Me:
+Computer Engineering Student | AI/ML Enthusiast | iOS Developer | Startup Founder
 
-# 💫 About Me:
-Driven by a strong foundation in C++ and Python, I specialize in building performant, scalable applications with a focus on clean architecture and maintainable code. Experienced in developing iOS applications using Swift and Xcode within macOS environments.<br><br>Passionate about Artificial Intelligence and Machine Learning, I’m actively exploring algorithms and data-driven solutions to solve complex problems. Proven track record of contributing to national-level technical competitions and collaborative projects that drive innovation.<br><br>Constantly evolving my skill set through continuous learning and hands-on experimentation, I aim to deliver impactful technology solutions that merge cutting-edge research with real-world applications.<br>linkedin - https://www.linkedin.com/in/abhiraj-jawalkar-aba7b32b2/<br>instagram - https://www.instagram.com/abhir_the_j<br>
+Founding team member of PlugWise, an IoT-based EV charging platform serving real-time recommendations and seamless booking experiences. Currently leading startup incubation initiatives as Research Associate at E-Cel, where I mentor student entrepreneurs and evaluate innovative ideas for incubation.
 
+With expertise spanning C++, Python, and Swift, I specialize in building scalable applications from mobile iOS apps to cloud-native solutions on Google Cloud Platform. My project portfolio includes AI-powered dispute resolution platforms, private community iOS applications, and intelligent automation systems integrating Gemini AI.
+🏆 Achievements: 3rd Place at Dipex 2025 (Mobility Domain) | National Innovation Contest Finalist | Inter-State Badminton Champion
+🎯 Focus Areas: Artificial Intelligence & Machine Learning, iOS Development, Cloud Infrastructure, Startup Ecosystem
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhir_the_j) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhiraj Jawalkar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ABJ9060) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pinujawalkar1925@gmail.com) 
