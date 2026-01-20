@@ -14,14 +14,20 @@ I place strong emphasis on system architecture, execution quality, and product r
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Tech Stack
+**Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
+<img src="https://skillicons.dev/icons?i=java,python,swift,react&perline=6" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=6" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,matplotlib&perline=6"/>
+
+
+
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
