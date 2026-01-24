@@ -24,7 +24,7 @@ I place strong emphasis on system architecture, execution quality, and product r
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,matplotlib&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch&perline=6"/>
 
 
 
