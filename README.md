@@ -16,7 +16,7 @@ I place strong emphasis on system architecture, execution quality, and product r
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,c++,java,swift,react&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,swift,react&perline=6" />
 
 **Databases**
 
