@@ -8,7 +8,7 @@ I place strong emphasis on system architecture, execution quality, and product r
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/AbhirajJawalkar](https://www.linkedin.com/in/abhiraj-jawalkar-aba7b32b2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiraj-jawalkar-aba7b32b2/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pinujawalkar1925@gmail.com)
                    
 
